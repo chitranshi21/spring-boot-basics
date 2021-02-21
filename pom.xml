@@ -26,6 +26,13 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
+<!--		this is dependency for openAPI 3.0-->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.5.4</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
