@@ -26,3 +26,4 @@ hs_err_pid*
 .idea/*
 *.iml
 target/*
+log.path_IS_UNDEFINED/*
